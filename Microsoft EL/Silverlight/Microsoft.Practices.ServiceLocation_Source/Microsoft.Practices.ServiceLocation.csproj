@@ -1,0 +1,26 @@
+<VisualStudioProject>
+  <CSHARP ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="3FD20542-FE78-4EE5-B32E-01D9FCD8C7AE">
+    <Build>
+      <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="Microsoft.Practices.ServiceLocation" AssemblyOriginatorKeyFile="" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library" PreBuildEvent="" PostBuildEvent="" RootNamespace="Microsoft.Practices.ServiceLocation" RunPostBuildEvent="OnBuildSuccess" StartupObject="">
+        <Config Name="Debug" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="DEBUG;TRACE" DocumentationFile="" DebugSymbols="true" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="false" OutputPath="bin\Debug\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="TRACE" DocumentationFile="" DebugSymbols="false" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="true" OutputPath="bin\Release\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="mscorlib" AssemblyName="mscorlib" HintPath="mscorlib.dll" />
+        <Reference Name="System" AssemblyName="System" HintPath="System.dll" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation\ActivationException.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation\IServiceLocator.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation.Properties\Resources.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation\ServiceLocator.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation\ServiceLocatorImplBase.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation\ServiceLocatorProvider.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Microsoft.Practices.ServiceLocation.Properties.Resources.resx" BuildAction="EmbeddedResource" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>
